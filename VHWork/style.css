@@ -1,0 +1,23 @@
+h1{
+    background-color:lightyellow;
+    text-align: center;
+}
+
+.indexcontent{
+    font-size: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tablecenter{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    /* color: white; */
+    font-family: verdana;
+}
+body{
+    font-size: 18px;
+    text-align: center;
+    background-color: lightblue;
+} 

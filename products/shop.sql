@@ -1,0 +1,104 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2022-02-20 10:30:30
+LastUsageStatisticCall<|||>1<|||>2022-02-12 14:12:54
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,298
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>SQL\Shop
+LastActiveSession<|||>1<|||>SQL\Shop
+FileDialogEncoding_MainForm<|||>3<|||>0
+ColWidths_frmTableEditor.listColumns<|||>1<|||>38,100,154,90,60,116,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>980,100,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>200,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,420
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>470
+sqloutheight<|||>3<|||>30
+MainWinMaximized<|||>3<|||>1
+SessionManager_WindowLeft<|||>3<|||>89
+SessionManager_WindowTop<|||>3<|||>174
+CreateDbCollation<|||>1<|||>utf8mb4_general_ci
+MemoEditorWidth<|||>3<|||>136
+ExportSQL_Filenames<|||>1<|||>C:\Users\Windows 10\Desktop\Sattawat.sql<{{{><}}}>
+SQLFile0<|||>1<|||>C:\Users\Windows 10\Desktop\ศตวรรษ จอมธัญ\shop.sql
+Servers\SQL\SessionCreated<|||>1<|||>2021-09-08 08:12:10
+Servers\SQL\Folder<|||>3<|||>1
+Servers\SQL\Shop\SessionCreated<|||>1<|||>2022-02-12 14:34:01
+Servers\SQL\Shop\Host<|||>1<|||>127.0.0.1
+Servers\SQL\Shop\WindowsAuth<|||>3<|||>0
+Servers\SQL\Shop\CleartextPluginEnabled<|||>3<|||>0
+Servers\SQL\Shop\User<|||>1<|||>root
+Servers\SQL\Shop\Password<|||>1<|||>7
+Servers\SQL\Shop\LoginPrompt<|||>3<|||>0
+Servers\SQL\Shop\Port<|||>1<|||>3306
+Servers\SQL\Shop\NetType<|||>3<|||>0
+Servers\SQL\Shop\Compressed<|||>3<|||>0
+Servers\SQL\Shop\LocalTimeZone<|||>3<|||>0
+Servers\SQL\Shop\QueryTimeout<|||>3<|||>30
+Servers\SQL\Shop\KeepAlive<|||>3<|||>20
+Servers\SQL\Shop\FullTableStatus<|||>3<|||>1
+Servers\SQL\Shop\Databases<|||>1<|||>
+Servers\SQL\Shop\Library<|||>1<|||>libmariadb.dll
+Servers\SQL\Shop\Comment<|||>1<|||>
+Servers\SQL\Shop\StartupScriptFilename<|||>1<|||>
+Servers\SQL\Shop\TreeBackground<|||>3<|||>536870911
+Servers\SQL\Shop\SSHtunnelHost<|||>1<|||>
+Servers\SQL\Shop\SSHtunnelHostPort<|||>3<|||>22
+Servers\SQL\Shop\SSHtunnelUser<|||>1<|||>
+Servers\SQL\Shop\SSHtunnelPassword<|||>1<|||>6
+Servers\SQL\Shop\SSHtunnelTimeout<|||>3<|||>4
+Servers\SQL\Shop\SSHtunnelPrivateKey<|||>1<|||>
+Servers\SQL\Shop\SSHtunnelPort<|||>3<|||>3307
+Servers\SQL\Shop\SSL_Active<|||>3<|||>0
+Servers\SQL\Shop\SSL_Key<|||>1<|||>
+Servers\SQL\Shop\SSL_Cert<|||>1<|||>
+Servers\SQL\Shop\SSL_CA<|||>1<|||>
+Servers\SQL\Shop\SSL_Cipher<|||>1<|||>
+Servers\SQL\Shop\IgnoreDatabasePattern<|||>1<|||>
+Servers\SQL\Shop\LogFileDdl<|||>3<|||>0
+Servers\SQL\Shop\LogFileDml<|||>3<|||>0
+Servers\SQL\Shop\LogFilePath<|||>1<|||>C:\Users\Windows 10\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\SQL\Shop\ServerVersionFull<|||>1<|||>10.4.22-MariaDB - mariadb.org binary distribution
+Servers\SQL\Shop\ConnectCount<|||>3<|||>12
+Servers\SQL\Shop\ServerVersion<|||>3<|||>100422
+Servers\SQL\Shop\LastConnect<|||>1<|||>2022-02-20 13:04:47
+Servers\SQL\Shop\lastUsedDB<|||>1<|||>shop
+Servers\SQL\Shop\RefusedCount<|||>3<|||>2
